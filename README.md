@@ -7,16 +7,19 @@ EXAMPLE USAGE;
 
 EXAMPLE USAGE;
 
-`$ python officextract.py [summary] filename.xlsx`
+`
+$ python officextract.py [summary] filename.xlsx`
 
     Extracts all unique strings from Office .x files and prints them to stdout'
 
-    Optional argument summary prints out only information about the file\n'`
+    Optional argument summary prints out only information about the file\n'
+`
 
 
 Will output either all strings found in the document or a summary of what was found - e.g.;
 
-`Summary for /home/somefolder/somefile.docx
+`
+Summary for /home/somefolder/somefile.docx
 
   Processed files;
     word/document.xml
