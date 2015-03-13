@@ -11,7 +11,7 @@ EXAMPLE USAGE;
 
     Extracts all unique strings from Office .x files and prints them to stdout'
 
-    Optional argument summary prints out only information about the file\n'
+    Optional argument summary prints out only information about the file\n'`
 
 
 Will output either all strings found in the document or a summary of what was found - e.g.;
