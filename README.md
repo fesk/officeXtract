@@ -63,4 +63,8 @@ Summary for /home/somefolder/somefile.docx
   Blank lines: 10558
   Words shorter than 3 chars: 408
 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 409e30208761cbc93e2644405235e28aa92b5a1e
